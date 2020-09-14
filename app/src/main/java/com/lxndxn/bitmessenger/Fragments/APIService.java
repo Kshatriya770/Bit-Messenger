@@ -12,7 +12,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AAAAgu0UxD0:APA91bEmsVNwqg3R20Lxsh9uy8KNqCZuPgywSXnEG7jSkFmBfw9vc1jquBRzngB463KXlJhS_VmlY9fekCb1BC0l3AMaadMz3RCSMBSktok5Q3TccIwM7hsRRY1Qr8EzTUfKWlKitk4L"
+                    "Authorization:key=// Add your own Authorization key from firebase"
             }
     )
 
