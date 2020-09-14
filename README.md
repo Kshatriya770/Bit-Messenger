@@ -1,2 +1,2 @@
 # Bit Messenger
- A Chat App Aplication Made from Java
+ A Chat App Application Made from Java
